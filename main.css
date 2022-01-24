@@ -30,6 +30,20 @@ p {
 img {
   width: 100%;
 }
+.special{
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.ml{
+  margin-left: 2rem;
+}
+.portfolio-description a{
+  color: white!important;
+}
+.ml:hover{
+  border-bottom: 2px solid white;
+  padding: 10px;
+}
 
 /*End global*/
 
